@@ -4,6 +4,7 @@
  * TODO: Complete buildPost function to fill in the post data in the post.html file using ids
  */
 
+
 const API_URL = "http://localhost:3000/api/posts/";
 const API_BASE_URL = "http://localhost:3000/";
 
